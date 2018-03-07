@@ -1,6 +1,6 @@
 # hello-world
 hi!
 
-This is my first code in github!
+This is my first readme in github!
 
 end!
